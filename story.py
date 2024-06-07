@@ -1,6 +1,6 @@
 kahani=''
 while True:
-    line=input(">>>")
+    line=input(">>> ")
     if not line:
         break
     else:
